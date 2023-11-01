@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://rad-truffle-2a6b1e.netlify.app/"
 languageCode: "en-us"
 title: "Hugo Demo"
 theme: "PaperMod"
